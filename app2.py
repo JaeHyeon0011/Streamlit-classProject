@@ -54,7 +54,7 @@ st.write('### 노재현 (기계공학부, 201921203)')
 
 st.write('# Project 1')
 st.write('## 1. 기계시스템 설계 및 선형 상미분 방정식 표현')
-st.image("figure4.png", caption="Local Image", use_column_width=True)
+st.image("./figure4.png", caption="Local Image", use_column_width=True)
 st.markdown(r"""
     $$
     y = a \cdot x^2 + b \cdot x + c
